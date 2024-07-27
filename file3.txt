@@ -1,0 +1,18 @@
+
+subject: operation greenlight
+
+agent: nightingale
+
+recipient: director
+
+message:
+
+the target is in position. we have eyes on him at all times. 
+he is scheduled to meet with the russian ambassador at 1800 hours tonight at the hotel pierre. 
+we have a team in place to intercept their communications and monitor their movements.
+
+i will keep you updated on our progress.
+
+nightingale
+
+cia
